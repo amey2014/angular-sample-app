@@ -1,0 +1,14 @@
+#books-screen .header-row{
+	font-weight: bold;
+}
+
+#book-details-screen .book-details-container{
+	margin-left: 15px;
+	padding: 5px 5px 5px 5px;
+	border: 1px Solid #000;
+}
+
+#book-details-screen .book-details-container .book-cover{
+	width: 200px;
+	height: 250px;
+}
